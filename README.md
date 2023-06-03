@@ -107,6 +107,7 @@ public void doDiv(View v) {
 ```
 ## activity_main.xml:
 ```
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@color/white" tools:context=".MainActivity">
 <TextView
     android:layout_width="194dp"
     android:layout_height="43dp"
